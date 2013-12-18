@@ -945,7 +945,7 @@
       {
          "filename":"yodawg.png",
          "textCodes":[
-            "yodawg.png"
+            "(yodawg)"
          ]
       },
       {
