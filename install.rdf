@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>emoticons-hipchat-memes@instantbird.org</em:id>
+    <em:name>Hipchat Emoticons</em:name>
+    <em:version>1.0</em:version>
+    <em:description>Hipchat emoticons and memes for Instantbird.
+	Spice up your chats with the latest emoticons and memes. We're constantly adding to our library of 150+ emoticons, and you can even upload your own.
+	Express yourself in a room or a one on one chat. You should probably stay away from the kissy face if you're at work.
+	</em:description>
+    <em:creator>Alexander Salas</em:creator>
+	
+    <!-- Instantbird -->
+    <em:targetApplication>
+      <Description>
+        <em:id>{33cb9019-c295-46dd-be21-8c4936574bee}</em:id>
+        <em:minVersion>0.2a1pre</em:minVersion>
+        <em:maxVersion>1.5a1pre</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>	
+</RDF>
