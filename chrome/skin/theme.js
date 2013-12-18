@@ -1,6 +1,148 @@
 {
    "smileys":[
       {
+         "filename":"angry.png",
+         "textCodes":[
+            ">:-("
+         ]
+      },
+      {
+         "filename":"bigsmile.png",
+         "textCodes":[
+            ":-D",
+            ":D"
+         ]
+      },
+      {
+         "filename":"cool.png",
+         "textCodes":[
+            "8)",
+            "8-)"
+         ]
+      },
+      {
+         "filename":"cry.png",
+         "textCodes":[
+            ":'("
+         ]
+      },
+      {
+         "filename":"footinmouth.png",
+         "textCodes":[
+            ":#"
+         ]
+      },
+      {
+         "filename":"frown.png",
+         "textCodes":[
+            ":("
+         ]
+      },
+      {
+         "filename":"gasp.png",
+         "textCodes":[
+            ":o"
+         ]
+      },
+      {
+         "filename":"happytear.gif",
+         "textCodes":[
+            ":')"
+         ]
+      },
+      {
+         "filename":"innocent.png",
+         "textCodes":[
+            "O:)"
+         ]
+      },
+      {
+         "filename":"kiss.png",
+         "textCodes":[
+            ":-*"
+         ]
+      },
+      {
+         "filename":"moneymouth.png",
+         "textCodes":[
+            ":$"
+         ]
+      },
+      {
+         "filename":"sealed.png",
+         "textCodes":[
+            ":Z"
+         ]
+      },
+      {
+         "filename":"slant.png",
+         "textCodes":[
+            ":\\"
+         ]
+      },
+      {
+         "filename":"smile.png",
+         "textCodes":[
+            ":)",
+            ":-)",
+            "=)"
+         ]
+      },
+      {
+         "filename":"straightface.png",
+         "textCodes":[
+            ":|"
+         ]
+      },
+      {
+         "filename":"tongue.png",
+         "textCodes":[
+            ":p"
+         ]
+      },
+      {
+         "filename":"wink.png",
+         "textCodes":[
+            ";)"
+         ]
+      },
+      {
+         "filename":"winktongue.gif",
+         "textCodes":[
+            ";p"
+         ]
+      },
+      {
+         "filename":"embarrassed.png",
+         "textCodes":[
+            "(embarrassed)"
+         ]
+      },
+      {
+         "filename":"oops.png",
+         "textCodes":[
+            "(oops)"
+         ]
+      },
+      {
+         "filename":"pirate.gif",
+         "textCodes":[
+            "(pirate)"
+         ]
+      },
+      {
+         "filename":"zzz.gif",
+         "textCodes":[
+            "(zzz)"
+         ]
+      },
+      {
+         "filename":"heart.png",
+         "textCodes":[
+            "(heart)"
+         ]
+      },
+      {
          "filename":"allthethings.png",
          "textCodes":[
             "(allthethings)"
@@ -10,12 +152,6 @@
          "filename":"android.png",
          "textCodes":[
             "(android)"
-         ]
-      },
-      {
-         "filename":"angry.png",
-         "textCodes":[
-            ">:-("
          ]
       },
       {
@@ -76,13 +212,6 @@
          "filename":"beer.png",
          "textCodes":[
             "(beer)"
-         ]
-      },
-      {
-         "filename":"bigsmile.png",
-         "textCodes":[
-            ":-D",
-            ":D"
          ]
       },
       {
@@ -224,22 +353,9 @@
          ]
       },
       {
-         "filename":"cool.png",
-         "textCodes":[
-            "8)",
-            "8-)"
-         ]
-      },
-      {
          "filename":"cornelius.png",
          "textCodes":[
             "(cornelius)"
-         ]
-      },
-      {
-         "filename":"cry.png",
-         "textCodes":[
-            ":'("
          ]
       },
       {
@@ -291,12 +407,6 @@
          ]
       },
       {
-         "filename":"embarrassed.png",
-         "textCodes":[
-            "(embarrassed)"
-         ]
-      },
-      {
          "filename":"facepalm.png",
          "textCodes":[
             "(facepalm)"
@@ -327,12 +437,6 @@
          ]
       },
       {
-         "filename":"footinmouth.png",
-         "textCodes":[
-            ":#"
-         ]
-      },
-      {
          "filename":"foreveralone.png",
          "textCodes":[
             "(foreveralone)"
@@ -342,12 +446,6 @@
          "filename":"freddie.png",
          "textCodes":[
             "(freddie)"
-         ]
-      },
-      {
-         "filename":"frown.png",
-         "textCodes":[
-            ":("
          ]
       },
       {
@@ -378,12 +476,6 @@
          "filename":"garret.png",
          "textCodes":[
             "(garret)"
-         ]
-      },
-      {
-         "filename":"gasp.png",
-         "textCodes":[
-            ":o"
          ]
       },
       {
@@ -418,21 +510,9 @@
          ]
       },
       {
-         "filename":"happytear.gif",
-         "textCodes":[
-            ":')"
-         ]
-      },
-      {
          "filename":"haveaseat.png",
          "textCodes":[
             "(haveaseat)"
-         ]
-      },
-      {
-         "filename":"heart.png",
-         "textCodes":[
-            "(heart)"
          ]
       },
       {
@@ -457,12 +537,6 @@
          "filename":"indeed.png",
          "textCodes":[
             "(indeed)"
-         ]
-      },
-      {
-         "filename":"innocent.png",
-         "textCodes":[
-            "O:)"
          ]
       },
       {
@@ -499,12 +573,6 @@
          "filename":"kennypowers.png",
          "textCodes":[
             "(kennypowers)"
-         ]
-      },
-      {
-         "filename":"kiss.png",
-         "textCodes":[
-            ":-*"
          ]
       },
       {
@@ -559,12 +627,6 @@
          "filename":"mindblown-1374883007.gif",
          "textCodes":[
             "(mindblown)"
-         ]
-      },
-      {
-         "filename":"moneymouth.png",
-         "textCodes":[
-            ":$"
          ]
       },
       {
@@ -628,12 +690,6 @@
          ]
       },
       {
-         "filename":"oops.png",
-         "textCodes":[
-            "(oops)"
-         ]
-      },
-      {
          "filename":"orly.png",
          "textCodes":[
             "(orly)"
@@ -661,12 +717,6 @@
          "filename":"pingpong.png",
          "textCodes":[
             "(pingpong)"
-         ]
-      },
-      {
-         "filename":"pirate.gif",
-         "textCodes":[
-            "(pirate)"
          ]
       },
       {
@@ -755,12 +805,6 @@
          ]
       },
       {
-         "filename":"sealed.png",
-         "textCodes":[
-            ":Z"
-         ]
-      },
-      {
          "filename":"seomoz.png",
          "textCodes":[
             "(seomoz)"
@@ -785,29 +829,9 @@
          ]
       },
       {
-         "filename":"slant.png",
-         "textCodes":[
-            ":\\"
-         ]
-      },
-      {
-         "filename":"smile.png",
-         "textCodes":[
-            ":)",
-            ":-)",
-            "=)"
-         ]
-      },
-      {
          "filename":"stare.png",
          "textCodes":[
             "(stare)"
-         ]
-      },
-      {
-         "filename":"straightface.png",
-         "textCodes":[
-            ":|"
          ]
       },
       {
@@ -856,12 +880,6 @@
          "filename":"thumbs_up.png",
          "textCodes":[
             "(thumbsup)"
-         ]
-      },
-      {
-         "filename":"tongue.png",
-         "textCodes":[
-            ":p"
          ]
       },
       {
@@ -919,18 +937,6 @@
          ]
       },
       {
-         "filename":"wink.png",
-         "textCodes":[
-            ";)"
-         ]
-      },
-      {
-         "filename":"winktongue.gif",
-         "textCodes":[
-            ";p"
-         ]
-      },
-      {
          "filename":"wtf.png",
          "textCodes":[
             "(wtf)"
@@ -964,12 +970,6 @@
          "filename":"zoidberg.png",
          "textCodes":[
             "(zoidberg)"
-         ]
-      },
-      {
-         "filename":"zzz.gif",
-         "textCodes":[
-            "(zzz)"
          ]
       }
    ]
