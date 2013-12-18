@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 	<Description about="urn:mozilla:install-manifest">
-		<em:id>emoticons-hipchat-memes@instantbird.org</em:id>
+		<em:id>emoticons-hipchat-memes@alexandersalas.name</em:id>
 		<em:unpack>true</em:unpack>
 		<em:name>HipChat Emoticons</em:name>
 		<em:version>1.0</em:version>
