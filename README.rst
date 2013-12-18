@@ -1,5 +1,5 @@
-Hipchat emoticon set for Adium
-------------------------------
+Hipchat emoticon set for Instantbird
+------------------------------------
 
 To use:
 
